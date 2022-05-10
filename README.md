@@ -4,7 +4,7 @@
 
 The basic rationale behind these notebooks is to demonstrate how deep learning concepts might be implemented in a library.
 
-The only libraries used for calculations is numpy and cupy.
+The only libraries used for calculations are `numpy` and `cupy`.
 
 ## Outline
 
@@ -19,9 +19,9 @@ The only libraries used for calculations is numpy and cupy.
 
 ## Future
 
-***Due:** 18th May 2022*
-
 ### Part 1
+
+***Due:** 18th May 2022*
 
 1. Move concepts and experiments code into separate notebooks.
 2. Simplify functions and reduce OOP language.
